@@ -80,4 +80,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evairo176)](https://github.com/evairo176/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evairo176&layout=compact&theme=vision-friendly-dark)](https://github.com/evairo176/github-readme-stats)
+<div  align="center">
+    Thanks for watching guys
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    </div>
+</h1>
+
 
