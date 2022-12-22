@@ -76,6 +76,5 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### :fire: My Stats :
-https://github-readme-streak-stats.herokuapp.com/?user=evairo176
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=evairo176&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
