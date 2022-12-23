@@ -76,7 +76,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :hammer_and_wrench: I have experience on :
 <div>
 
-  <img src=" https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Google_Maps_Logo_2020.svg/800px-Google_Maps_Logo_2020.svg.png" title="Express" alt="Express" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Google_Maps_Logo_2020.svg/800px-Google_Maps_Logo_2020.svg.png" title="Express" alt="Express" width="40" height="40"/>&nbsp;
 </div>
 
 ### :fire: My Stats :
