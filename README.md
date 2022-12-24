@@ -73,11 +73,12 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 </div>
 
 ---
-### :hammer_and_wrench: I have experience on :
+### :man_technologist: I have experience on :
 <div>
 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Google_Maps_Logo_2020.svg/800px-Google_Maps_Logo_2020.svg.png" title="Express" alt="Express" width="40" height="40"/>&nbsp;
  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8ZGkXd3FvFWroUQfsXmaydBNK8LhQzJKd0NfSGfAcAZoNJivRmSsImmC_6eyznpPGAg&usqp=CAU" title="Leaflet" alt="Leaflet" width="80" height="40"/>&nbsp;
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxjO-nauVIRPpdsOXHpGXZuvFJAAd0za4ZuQ&usqp=CAU" title="Mapbox" alt="Mapbox" width="40" height="40"/>&nbsp;
 </div>
 
 ### :fire: My Stats :
