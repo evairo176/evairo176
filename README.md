@@ -87,8 +87,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=evairo176&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evairo176)]()
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evairo176&layout=compact&theme=vision-friendly-dark)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evairo176)](https://github.com/evairo176/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evairo176&layout=compact&theme=vision-friendly-dark)](https://github.com/evairo176/github-readme-stats)
 <div  align="center">
     Thanks for watching guys
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
