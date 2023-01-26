@@ -84,6 +84,12 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://www.xendit.co/wp-content/uploads/2020/03/XENDIT-LOGOArtboard-1@2x.png" title="Xendit" alt="Xendit" width="100" height="40"/>&nbsp;
 </div>
 
+### My Project :
+
+- Website Pemesanan Wisata (Midtrans dan laravel 8)
+
+---
+
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=evairo176&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
