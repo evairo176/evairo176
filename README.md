@@ -91,7 +91,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - Intergrasi Api Youtube dan Wikipedia React js
 - PWA web project (Google Maps, Xendit, api telegram, React-Redux, React Js , laravel 8, Integrasi Api backend)
 - Membuat Beberapa Fitur Dashboard
-- Web Blog (React Js dan Express js + mongooDB)
+- <a href="https://evairo176-blog.netlify.app/">https://evairo176-blog.netlify.app/</a>
+Web Blog (React Js dan Express js + mongooDB)
 ---
 
 ### :fire: My Stats :
