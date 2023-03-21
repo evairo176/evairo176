@@ -84,8 +84,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=evairo176&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=evairo176&theme=neon-dark&hide_border=true&border_radius=11.6)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evairo176)](https://github.com/evairo176/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evairo176&layout=compact&theme=vision-friendly-dark)](https://github.com/evairo176/github-readme-stats)
 <div  align="center">
