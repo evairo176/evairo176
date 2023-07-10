@@ -79,7 +79,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - Website Pemesanan Wisata (Midtrans dan laravel 8)
 - <a href="https://dicki-portofolio.my.id/">Pegelolaan Data Posyandu Dinas Pemberdayaan Manusia dan Desa Kabupaten Indramayu (laravel 8)</a> 
 - Intergrasi Api Youtube dan Wikipedia React js
-- PWA web project (Google Maps, Xendit, api telegram, React-Redux, React Js , laravel 8, Integrasi Api backend)
+- <a href="https://app.tnosworld.com/">PWA web project (Google Maps, Xendit, api telegram, React-Redux, React Js , laravel 8, Integrasi Api backend)</a>
+- <a href="https://play.google.com/store/apps/details?id=com.tnosworld">Payment Custom dimenu pembayaran aplikasi</a>
 - Membuat Beberapa Fitur Dashboard
 - AppStore food market (React native)
 ---
