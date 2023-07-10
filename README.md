@@ -74,13 +74,13 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### My Project :
 
-- <a href="https://evairo-portofolio.vercel.app/">My Portofolio</a> 
+- <a href="https://evairo-portofolio.vercel.app/">My Portofolio</a>
+- <a href="https://evairo-blog.vercel.app">My Blog</a>
 - Website Pemesanan Wisata (Midtrans dan laravel 8)
 - <a href="https://dicki-portofolio.my.id/">Pegelolaan Data Posyandu Dinas Pemberdayaan Manusia dan Desa Kabupaten Indramayu (laravel 8)</a> 
 - Intergrasi Api Youtube dan Wikipedia React js
 - PWA web project (Google Maps, Xendit, api telegram, React-Redux, React Js , laravel 8, Integrasi Api backend)
 - Membuat Beberapa Fitur Dashboard
-- <a href="https://blog-frontend-two-pied.vercel.app/">Web Blog (React Js dan Express js + mongooDB)</a>
 - AppStore food market (React native)
 ---
 
